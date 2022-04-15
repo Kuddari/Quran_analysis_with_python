@@ -41,8 +41,8 @@ There are three language of Word by word
 
 
 # Contributor
-Kyaw Swar Win
-Abdulhaiyee Sani
-Sananpong Insuwan
+- Kyaw Swar Win
+- Abdulhaiyee Sani
+- Sananpong Insuwan
 
 # Conclusion
