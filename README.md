@@ -1,6 +1,6 @@
 # Quran-Database-and-Data-Warehouse
 # Overview
-This repository contains all data that is related with Al-Quran, from the Ayah(Text and translation), Tafsir(explanation) ,surah and word by word. It's collected from several open sources and stored as file.csv and JSON to make it easy to use in various programming language.In this section, we have analyzed the data using the star schema design method for efficient data analysis and bring it into the process of programming to make it easier to run.
+This repository contains all data that is related with Al-Quran, from the Ayah(Text and translation), Tafsir(explanation) ,surah and word by word. It's collected from open sources and stored as file.csv and JSON to make it easy to use in various programming language.In this section, we have analyzed the data using the star schema design method for efficient data analysis and bring it into the process of programming to make it easier to run.
 # Tools of use
 - A Computer
 - Python => 3
@@ -34,11 +34,14 @@ There are three language of Word by word
 # Step to do star schema and analysis
 - Download PostgreSQL
 - Create the  database and fill it with data
-
-
+- Insert the dataset
+- Create Fact Table
+- Choose Arabic_word as Fact Table  
+- Connect Fact Table to all dimention Table including Surah Ayah Translate
+- For Analysis you can see how to do  via this link https://github.com/Kuddari/QuranTranslater/blob/main/quran_analysis.ipynb
 
 # Data source
-
+https://github.com/hablullah/data-quran
 
 # Contributor
 - Kyaw Swar Win
