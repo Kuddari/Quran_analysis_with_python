@@ -16,13 +16,16 @@ There are 6 translations which taken from several open sources.
 - id_translate.csv=Indonesian Language
 - malay_translate.csv=Malay Language
 - thai_translate.csv=Thai Language
+- 
 There are two Languages of Surah
 - en_surah.csv =English
 - id_surah.csv=Indonesian
+
 There are three Languages of Tafsir
 - ar-mukhtasar-islamhouse.md=Arabic
 - en-mukhtasar-islamhouse.md=English
 - id-mukhtasar-islamhouse.md=Indonesian
+
 There are three language of Word by word
 - Word.csv= Arabic
 - en_word.csv=English
@@ -34,10 +37,10 @@ There are three language of Word by word
 
 
 
-Data source
+# Data source
 
 
-Contributor
+# Contributor
 Kyaw Swar Win
 Abdulhaiyee Sani
 Sananpong Insuwan
