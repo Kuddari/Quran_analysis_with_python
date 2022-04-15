@@ -39,7 +39,8 @@ There are three language of Word by word
 - Choose Arabic_word as Fact Table  
 - Connect Fact Table to all dimention Table including Surah Ayah Translate
 - For Analysis you can see how to do  via this link https://github.com/Kuddari/QuranTranslater/blob/main/quran_analysis.ipynb
-#-question&answer
+
+Question&answer
 - 1.What is the longest surah in Quran and how many words are there?
   Ans: Al-Baqara and have 6116 words
 - 2.What is the shortest surah is Quran?
