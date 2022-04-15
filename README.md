@@ -88,3 +88,6 @@ https://github.com/hablullah/data-quran
 - Sananpong Insuwan
 
 # Conclusion
+In conclution, this repository has discussed four key area is information about the Quran
+Al-Quran Dataset,Tools of use,Step to do star schema and analysis and saw that dealing with 
+the Quran database can be a sentence for people who are very interested.
