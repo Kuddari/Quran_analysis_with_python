@@ -1,6 +1,8 @@
 # Quran-Database-and-Data-Warehouse
+
 # Overview
 This repository contains all data that is related with Al-Quran, from the Ayah(Text and translation), Tafsir(explanation) ,surah and word by word. It's collected from open sources and stored as file.csv and JSON to make it easy to use in various programming language.In this section, we have analyzed the data using the star schema design method for efficient data analysis and bring it into the process of programming to make it easier to run.
+
 # Tools of use
 - A Computer
 - Python => 3
@@ -8,6 +10,7 @@ This repository contains all data that is related with Al-Quran, from the Ayah(T
 - Visual Studio Code
 - PostgreSQL
 - Git, GitHub, GitHub Desktop
+
 # Al-Quran Dataset
 There are 6 translations which taken from several open sources.
 - Chinese_translate.csv= Chinese Language
@@ -16,7 +19,7 @@ There are 6 translations which taken from several open sources.
 - id_translate.csv=Indonesian Language
 - malay_translate.csv=Malay Language
 - thai_translate.csv=Thai Language
-- 
+ 
 There are two Languages of Surah
 - en_surah.csv =English
 - id_surah.csv=Indonesian
@@ -79,6 +82,7 @@ Question&answer
 - 12.How many ayah that revelation in Mekkah and How many Ayahs in Madinah?
   Ans: 	medinan	1623 =	26.026299%
 	meccan	4613 =	73.973701%
+	
 # Data source
 https://github.com/hablullah/data-quran
 
