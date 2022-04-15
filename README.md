@@ -84,7 +84,7 @@ Question&answer
 	meccan	4613 =	73.973701%
 	
 # Data source
-https://github.com/hablullah/data-quran
+hablullah, A. (2021) data-quran.: Live Science [online]. Available at: https://github.com/hablullah/data-quran [Accessed 8-15th April 2022].
 
 # Authors
 - Kyaw Swar Win
