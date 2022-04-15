@@ -49,7 +49,8 @@ There are three language of Word by word
 - 4.How many words in Quran?
   Ans: There are 77429 words in quran.
 - 5.Which ayahs are have only one word?
-	surah	ayah	words	text
+  Ans:
+  surah  ayah   words	text
 0	آل عمران	1	1	الٓمٓ
 1	الأحقاف	1	1	حمٓ
 2	الأعراف	1	1	الٓمٓصٓ
@@ -72,15 +73,11 @@ There are three language of Word by word
 - 10.What are the most frequently used words in Quran?
   Ans: مِنْ , الَّذِیْنَ , مَا
 - 11.How many words that revelation in Mekkah and How many words in Madinah?
-  Ans:
-	revelation_city	words	percentage
-0	medinan	29990	38.732258
-1	meccan	47439	61.267742
-- 12.How many words that revelation in Mekkah and How many Ayahs in Madinah?
-  Ans:
-  	type	ayahs	percentage
-0	medinan	1623	26.026299
-1	meccan	4613	73.973701
+  Ans:	medinan	29990 =	38.732258%
+	meccan	47439 =	61.267742%
+- 12.How many ayah that revelation in Mekkah and How many Ayahs in Madinah?
+  Ans: 	medinan	1623 =	26.026299%
+	meccan	4613 =	73.973701%
 # Data source
 https://github.com/hablullah/data-quran
 
