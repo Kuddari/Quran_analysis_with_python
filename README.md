@@ -43,7 +43,7 @@ There are three language of Word by word
 # Data source
 https://github.com/hablullah/data-quran
 
-# Contributor
+# Authors
 - Kyaw Swar Win
 - Abdulhaiyee Sani
 - Sananpong Insuwan
