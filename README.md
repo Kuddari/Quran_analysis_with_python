@@ -37,7 +37,7 @@ There are three language of Word by word
 - Insert the dataset
 - Create Fact Table
 - Choose Arabic_word as Fact Table  
-- Connect Fact Table to all dimention Table including Surah Ayah Translate
+- Connect Fact Table to all dimension Table including Surah Ayah Translate
 - For Analysis you can see how to do  via this link https://github.com/Kuddari/QuranTranslater/blob/main/quran_analysis.ipynb
 
 Question&answer
@@ -88,6 +88,6 @@ https://github.com/hablullah/data-quran
 - Sananpong Insuwan
 
 # Conclusion
-In conclution, this repository has discussed four key area is information about the Quran
+In conclusion, this repository has discussed four key area is information about the Quran
 Al-Quran Dataset,Tools of use,Step to do star schema and analysis and saw that dealing with 
 the Quran database can be a sentence for people who are very interested.
