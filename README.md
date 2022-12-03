@@ -87,7 +87,7 @@ Question&answer
 hablullah, A. (2021) data-quran.: Live Science [online]. Available at: https://github.com/hablullah/data-quran [Accessed 8-15th April 2022].
 
 # Authors
-- Kyaw Swar Win
+- Kuddari
 - Abdulhaiyee Sani
 - Sananpong Insuwan
 
